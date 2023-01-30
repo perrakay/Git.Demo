@@ -1,2 +1,2 @@
 # Git.Demo
-Edited in main
+Merge conflict resolved
